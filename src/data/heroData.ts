@@ -2,7 +2,7 @@ export const heroData = {
   name: 'Juan Nieves',
   title: 'Sistems and Computing Engineer - Student',
   description: 'I am currently studying Systems and Computing Engineering at the University of the Andes of Colombia. I am passionate about technology and software development. I am always looking for new challenges and opportunities to learn and grow.',
-  profilePicture: './src/resources/profilepic.jpeg',
+  profilePicture: 'juannievesh/juannievesh.github.io/src/resources/profilepic.jpeg',
   skills: [
     'JavaScript',
     'SQL',
