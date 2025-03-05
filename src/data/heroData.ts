@@ -1,25 +1,21 @@
 export const heroData = {
   name: 'Juan Nieves',
-  title: 'Full-Stack Developer',
-  description: 'I build scalable web applications and transform raw data into meaningful insights that drive business success.',
-  profilePicture: 'https://example.com/profilepic.jpg',
+  title: 'Sistems and Computing Engineer - Student',
+  description: 'I am currently studying Systems and Computing Engineering at the University of the Andes of Colombia. I am passionate about technology and software development. I am always looking for new challenges and opportunities to learn and grow.',
+  profilePicture: 'src/resources/profilepic.jpeg',
   skills: [
     'JavaScript',
-    'React',
-    'Node.js',
     'SQL',
     'Python',
-    'Power BI',
-    'DAX',
-    'ETL',
-    'Data Modeling',
+    'Oriented Object Programming',
+    'Web Development',
     'API Development',
-    'Cloud Computing',
+    'Google Apps Script',
     'Machine Learning'
   ],
   contact: {
-    github: 'https://github.com/johndoe',
-    linkedin: 'https://www.linkedin.com/in/johndoe/',
-    email: 'johndoe@example.com'
+    github: 'https://github.com/juannievesh',
+    linkedin: 'https://www.linkedin.com/in/juan-camilo-nieves-b2960327a/?locale=en_US',
+    email: 'juancnievesh@gmail.com'
   }
 };
