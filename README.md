@@ -69,9 +69,9 @@ This file contains global configuration settings such as the site title, descrip
 **Example:**
 ```ts
 export const config = {
-  siteTitle: 'John Doe Portfolio',
-  description: 'Hi, I am John Doe, a passionate web developer and data analyst.',
-  author: 'John Doe',
+  siteTitle: 'Juan Nieves Portfolio',
+  description: 'Hi, I am Juan Nieves, a passionate web developer and data analyst.',
+  author: 'Juan Nieves',
   contactEmail: 'johndoe@example.com',
   social: {
     linkedin: 'https://www.linkedin.com/in/johndoe/',
